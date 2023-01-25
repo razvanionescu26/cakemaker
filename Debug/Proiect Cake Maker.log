@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Razvan Ionescu\Desktop\cakemaker\CakeMaker.h(12,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Razvan Ionescu\Desktop\cakemaker\CakeMaker.h(12,20): warning C4309: 'initializing': truncation of constant value
+  Proiect Cake Maker.vcxproj -> C:\Users\Razvan Ionescu\Desktop\cakemaker\Debug\Proiect Cake Maker.exe
